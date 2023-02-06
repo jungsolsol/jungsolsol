@@ -44,6 +44,28 @@
 
 ### Projects
 -------------------
-Single Project - LovePlace
-Team Project - TDT
-Team Project - SeoulMarketVisualization
+### [LovePlace](https://github.com/jungsolsol/lovelove)
+
+**Single Project** 
+
+Team Role - Backend , Frontend 
+
+-----------
+### [TDT](https://github.com/orgs/ToDoTogether-TDT/repositories)
+
+**Team Project** 
+
+Team Role - Backend 
+
+-----------
+### [SeoulMarketanalysis](https://github.com/jungsolsol/SeoulMarketanalysis)
+
+**Team Project**
+
+Team Role - Backend , Data analysis
+-----------
+### [daangn-item-crawler](https://github.com/jungsolsol/BatchScheduling)
+
+**~ing
+
+
