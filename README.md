@@ -66,6 +66,6 @@ Team Role - Backend , Data analysis
 -----------
 ### [daangn-item-crawler](https://github.com/jungsolsol/BatchScheduling)
 
-**~ing
+**~ing**
 
 
