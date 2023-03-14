@@ -44,8 +44,8 @@
 
 ### Projects
 -------------------
-### [LovePlace](https://github.com/jungsolsol/lovelove)
-
+### JAVA-SPRING [LovePlace](https://github.com/jungsolsol/lovelove) 
+### PHP-Laravel [LovePlace](https://github.com/jungsolsol/lovelove) 
 **Single Project** 
 
 Team Role - Backend , Frontend 
